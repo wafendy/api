@@ -1,21 +1,107 @@
 {
-	"satisfaction_score": {
-		"data": {
-			"currentScores": [{
-				"score": 0.2963,
-				"ratingsCount": 54,
-				"__typename": "InfoSvcSatisfactionScoreMetric"
-			}],
-			"prevScores": [{
-				"score": 0.3137,
-				"ratingsCount": 51,
-				"__typename": "InfoSvcSatisfactionScoreMetric"
-			}],
-			"wogScores": [{
-				"score": 0.3384,
-				"ratingsCount": 3091,
-				"__typename": "InfoSvcSatisfactionScoreMetric"
-			}]
-		}
-	}
+    "wog_satisfaction_score": {
+        "data": {
+            "currentScores": [
+                {
+                    "score": 0.3376,
+                    "__typename": "InfoSvcSatisfactionScoreMetric"
+                }
+            ],
+            "prevScores": [
+                {
+                    "score": 0.3437,
+                    "__typename": "InfoSvcSatisfactionScoreMetric"
+                }
+            ]
+        }
+    },
+    "wog_total_rating_collected": {
+        "data": {
+            "currentCounts": [
+                {
+                    "ratingsCount": 3066,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ],
+            "prevCounts": [
+                {
+                    "ratingsCount": 2947,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ]
+        }
+    },
+    "wog_total_feedback_collected": {
+        "data": {
+            "currentCounts": [
+                {
+                    "feedbackCount": 1108,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ],
+            "prevCounts": [
+                {
+                    "feedbackCount": 1053,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ]
+        }
+    },
+    "satisfaction_score": {
+        "data": {
+            "currentScores": [
+                {
+                    "score": 0.2963,
+                    "ratingsCount": 54,
+                    "__typename": "InfoSvcSatisfactionScoreMetric"
+                }
+            ],
+            "prevScores": [
+                {
+                    "score": 0.3137,
+                    "ratingsCount": 51,
+                    "__typename": "InfoSvcSatisfactionScoreMetric"
+                }
+            ],
+            "wogScores": [
+                {
+                    "score": 0.3384,
+                    "ratingsCount": 3091,
+                    "__typename": "InfoSvcSatisfactionScoreMetric"
+                }
+            ]
+        }
+    },
+    "total_rating_collected": {
+        "data": {
+            "currentCounts": [
+                {
+                    "ratingsCount": 61,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ],
+            "prevCounts": [
+                {
+                    "ratingsCount": 43,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ]
+        }
+    },
+    "total_feedback_collected": {
+        "data": {
+            "currentCounts": [
+                {
+                    "feedbackCount": 27,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ],
+            "prevCounts": [
+                {
+                    "feedbackCount": 18,
+                    "__typename": "InfoSvcRatingsCollectedMetric"
+                }
+            ]
+        }
+    }
 }
