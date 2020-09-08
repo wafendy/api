@@ -1,1 +1,21 @@
-{"data":{"currentScores":[{"score":0.2963,"ratingsCount":54,"__typename":"InfoSvcSatisfactionScoreMetric"}],"prevScores":[{"score":0.3137,"ratingsCount":51,"__typename":"InfoSvcSatisfactionScoreMetric"}],"wogScores":[{"score":0.3384,"ratingsCount":3091,"__typename":"InfoSvcSatisfactionScoreMetric"}]}}
+{
+	"satisfaction_score": {
+		"data": {
+			"currentScores": [{
+				"score": 0.2963,
+				"ratingsCount": 54,
+				"__typename": "InfoSvcSatisfactionScoreMetric"
+			}],
+			"prevScores": [{
+				"score": 0.3137,
+				"ratingsCount": 51,
+				"__typename": "InfoSvcSatisfactionScoreMetric"
+			}],
+			"wogScores": [{
+				"score": 0.3384,
+				"ratingsCount": 3091,
+				"__typename": "InfoSvcSatisfactionScoreMetric"
+			}]
+		}
+	}
+}
